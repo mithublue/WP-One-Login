@@ -3,7 +3,7 @@
 Plugin Name: WP One Login by Cybercraft Technologies
 Plugin URI: ''
 Description: Prevents multiple/concurrent login in different machines
-Version: 0.1
+Version: 1.0
 Author: Mithu A Quayium
 Author URI: http://www.cybercraftit.com
 License: GPLv2 or later
